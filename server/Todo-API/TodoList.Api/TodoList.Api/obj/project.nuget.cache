@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxZ9ukBqBV1pv+GU5f3qoCkD+g84FY2/iXvsiKcBuyjcv0BRFiyS78c1yJxUf+6lD0ksi+3TfvXhO18aECOjjA==",
+  "success": true,
+  "projectFilePath": "/Users/sebastiancastro/Documents/Projects/TodoList/server/Todo-API/TodoList.Api/TodoList.Api/TodoList.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/sebastiancastro/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sebastiancastro/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sebastiancastro/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/sebastiancastro/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/sebastiancastro/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/sebastiancastro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
